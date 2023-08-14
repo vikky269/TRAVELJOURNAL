@@ -1,4 +1,5 @@
 # React + Vite
+A basic app that help me understood how props work in react and how to map through data to create reuseable components in react.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
